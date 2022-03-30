@@ -1,7 +1,7 @@
 # Power Bi Challenge Week 10 
 
 ## Objective 
-this week’s challenge is to use the Violin Plot custom visual.
+This week’s challenge is to use the Violin Plot custom visual.
 
 ### Dataset location
 
