@@ -5,3 +5,4 @@ This week’s challenge is to use anomaly detection and forecasting to gain a de
 
 ### Image
 
+![2022-03-30 (1)](https://user-images.githubusercontent.com/70821494/160927112-86175dcf-09a4-422f-8310-9d0fc1a835c4.png)
